@@ -2,7 +2,7 @@
 
 
 <h1 align = "justify">Antonio José</h1>
-<p align = "justify">Desenvolvedor Back-End e Front-end, amante de Café, e fã de Python e Django.
+<p align = "justify">Desenvolvedor Back-End e Front-end, amante de Café, fã de Python e Django.
 
 Atualmente estou descobrindo o mundo da IA com a programação de Bot's.</p>
 
