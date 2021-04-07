@@ -13,6 +13,7 @@ No momento minhas atenções estão voltadas para IA com o **Rasa** e testes aut
 
 [![Linkedin Badge](https://img.shields.io/badge/-antonio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniojpprado/)](https://www.linkedin.com/in/antoniojpprado/)
 [![Gmail Badge](https://img.shields.io/badge/-antoniojpprado@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniojpprado@gmail.com)](mailto:antoniojpprado@gmail.com)
+<br><br>
 
 ## 🚀💻 Tecnologias
 
@@ -37,6 +38,7 @@ No momento minhas atenções estão voltadas para IA com o **Rasa** e testes aut
 ![Rasa](https://img.shields.io/badge/-Rasa-560BAD?style=flat-square&logo=https://rasa.com/static/60e441f8eadef13bea0cc790c8cf188b/rasa-logo.svg)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-red?style=flat-square&logo=jenkins)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=flat-square&logo=jupyter)
+<br><br>
 
 ## ⚡ GitHub Status
 
