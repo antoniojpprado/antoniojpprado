@@ -4,8 +4,6 @@
 <h1 align = "justify">Antonio José</h1>
 <p align = "justify">Desenvolvedor Back-End e Front-end, amante de Café, fã de Python e Django.
 
-Atualmente estou descobrindo o mundo da IA com a programação de Bot's.</p>
-
 Trabalho na empresa [Run2biz](https://pt.run2biz.com/)
 
 No momento minhas atenções estão voltadas para IA com o **Rasa** e testes automatizados com o **Cypress**.
