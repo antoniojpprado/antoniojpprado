@@ -4,9 +4,9 @@
 <h1 align = "justify">Antonio José</h1>
 <p align = "justify">Desenvolvedor Back-End e Front-end, amante de Café, fã de Python e Django.
 
-Trabalho na empresa [Run2biz](https://pt.run2biz.com/)
+Trabalho na empresa [Act Digital](https://actdigital.com/pt/)
 
-No momento minhas atenções estão voltadas para IA com o **Rasa** e testes automatizados com o **Cypress**.
+No momento minhas atenções estão voltadas para o desenvolvimento de API's com o Python.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-antonio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniojpprado/)](https://www.linkedin.com/in/antoniojpprado/)
