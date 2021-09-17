@@ -6,7 +6,7 @@
 
 Trabalho na empresa [Act Digital](https://actdigital.com/pt/)
 
-No momento minhas atenções estão voltadas para o desenvolvimento de API's com o Python.
+No momento minhas atenções estão voltadas para o desenvolvimento de API's com o Python e Front com ReactJS.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-antonio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniojpprado/)](https://www.linkedin.com/in/antoniojpprado/)
