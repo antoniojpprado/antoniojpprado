@@ -25,10 +25,10 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   
-**Data Base**
+**Database**
   
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 **QA Tester**
   
@@ -65,7 +65,7 @@
   Acredito no compartilhamento de conhecimentos como uma exelente estratégia para o crescimento coletivo.
   <br><br>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+## 🤝🏻 Aonde me Encontrar
 
   [![Linkedin Badge](https://img.shields.io/badge/-antonio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniojpprado/)](https://www.linkedin.com/in/antoniojpprado/)
   [![Gmail Badge](https://img.shields.io/badge/-antoniojpprado@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniojpprado@gmail.com)](mailto:antoniojpprado@gmail.com)
