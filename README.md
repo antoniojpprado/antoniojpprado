@@ -69,7 +69,6 @@
 
   [![Linkedin Badge](https://img.shields.io/badge/-antonio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniojpprado/)](https://www.linkedin.com/in/antoniojpprado/)
   [![Gmail Badge](https://img.shields.io/badge/-antoniojpprado@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniojpprado@gmail.com)](mailto:antoniojpprado@gmail.com)
-  [![GitHub Antonio José]( https://img.shields.io/github/followers/antoniojpprado?label=follow&style=social)](https://github.com/antoniojpprado?tab=followers)
   </br></br>
   
 ## ⚡ GitHub Status
