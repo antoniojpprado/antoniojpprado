@@ -38,6 +38,14 @@ No momento minhas atenções estão voltadas para o desenvolvimento de API's com
 ![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=flat-square&logo=jupyter)
 <br><br>
 
+  
+## 🌱 Publicações
+
+  Compartilho alguns conhecimentos através através de posts em meu blog, o qual eu chamo de [Compartilhar é Sábio](http://www.sharingiswise.com/).
+  <br>
+  Acredito no compartilhamento de conhecimentos como uma exelente estratégia para o crescimento coletivo.
+  <br><br>
+
 ## ⚡ GitHub Status
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=antoniojpprado&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
