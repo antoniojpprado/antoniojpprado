@@ -60,7 +60,7 @@
   
 ## 🌱 Minhas Publicações
 
-  Compartilho alguns conhecimentos através através de posts em meu blog, o qual eu chamo de [Compartilhar é Sábio](http://www.sharingiswise.com/).
+  Compartilho alguns conhecimentos através de posts em meu blog, o qual eu chamo de [Compartilhar é Sábio](http://www.sharingiswise.com/).
   <br>
   Acredito no compartilhamento de conhecimentos como uma exelente estratégia para o crescimento coletivo.
   <br><br>
