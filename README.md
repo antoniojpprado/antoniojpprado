@@ -2,7 +2,7 @@
 
 # Antonio José
 <p>
-  Desenvolvedor FullStack, amante de Café, fã de Python e Django. Atualmente trabalhando na empresa <a href="https://actdigital.com/pt/">Act Digital</a>, atuando em projetos de desenvolvimento utilizando, com predominância, no BackEnd o Python para API's e ReactJS para o FrontEnd.
+  Desenvolvedor FullStack, amante de Café, fã de Python. Atualmente trabalhando na empresa <a href="https://br.clear.sale/">ClearSale</a>, atuando em projetos de desenvolvimento na área de Engenharia de Dados.
 </p>
 </br>
 
