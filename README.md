@@ -15,6 +15,7 @@
   ![Rest](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![Rasa](https://img.shields.io/badge/-Rasa-560BAD?style=flat-square&logo=https://rasa.com/static/60e441f8eadef13bea0cc790c8cf188b/rasa-logo.svg)
+  ![Rasa](https://img.shields.io/badge/-FastApi)
 
 **FrontEnd**
 
