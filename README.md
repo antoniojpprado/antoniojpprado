@@ -14,6 +14,7 @@
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)
   ![Rest](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+  ![FastAPI](https://img.shields.io/badge/Flask-005571?style=flat-square&logo=flask)
   ![Rasa](https://img.shields.io/badge/-Rasa-560BAD?style=flat-square&logo=https://rasa.com/static/60e441f8eadef13bea0cc790c8cf188b/rasa-logo.svg)
  
 **FrontEnd**
